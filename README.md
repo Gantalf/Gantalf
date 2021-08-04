@@ -2,8 +2,8 @@
 #### Soy Full Stack Web Developer
 ![Soy Full Stack Web Developer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-Encontré mi vocación en el desarrollo, me encanta encontrar un problema y poder encontrar una solución a través de código.
-Me especializo en Front-En. 
+Encontré mi vocación en el desarrollo, me encanta descubrir un problema y poder solucionarlo a través de código.
+Me especializo en Front-End. 
 
 Habilidades: REACT / JS / NODE / EXPRESS / SEQUALIZE / POSTGRESQL / HTML / CSS
 

@@ -25,5 +25,11 @@ Me especializo en Front-End.
   <img src='./img/skills/chai.png' width='30' height='30' aling='center'>
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luciano-nicolas-pereira-dev)  
+---
+
+
+<p aling='center'>
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luciano-nicolas-pereira-dev)
+</p>
+  
 

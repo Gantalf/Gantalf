@@ -30,7 +30,7 @@ Me especializo en Front-End.
 
 <p aling='center'>
   <a href='https://www.linkedin.com/in/luciano-nicolas-pereira-dev'>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' aling='center'>
   </a>
 </p>
  

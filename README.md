@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola 👋, mi nombre es Luciano
+#### Soy Full Stack Web Developer
+![Soy Full Stack Web Developer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-<!--
-**Gantalf/Gantalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Encontré mi vocación en el desarrollo, me encanta encontrar un problema y poder encontrar una solución a través de código.
+Me especializo en Front-En. 
 
-Here are some ideas to get you started:
+Habilidades: REACT / JS / NODE / EXPRESS / SEQUALIZE / POSTGRESQL / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/luciano-nicolas-pereira-dev/)  
+

@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Luciano
-#### Soy Full Stack Web Developer
-![Soy Full Stack Web Developer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+#### Software Developer
+![Software Developer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 Encontré mi vocación en el desarrollo, me encanta descubrir un problema y poder solucionarlo a través de código.
 Me especializo en Front-End. 

@@ -2,8 +2,8 @@
 #### Software Developer
 ![Software Developer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-Encontré mi vocación en el desarrollo, me encanta descubrir un problema y poder solucionarlo a través de código.
-Me especializo en Front-End. 
+Desarrolador de Software, me encanta descubrir un problema y poder solucionarlo a través de código.
+Actualmente hago BackEnd con Java - Spring Boot y un poco de Go, pero también tengo experiencia en FrontEnd con React. 
 
 ### Skills: 
 <p aling='center'>

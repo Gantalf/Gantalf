@@ -1,9 +1,8 @@
 ### Hola 👋, mi nombre es Luciano
-#### Software Developer
-![Software Developer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+#### Software Engineer
+![Software Engineer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 Desarrolador de Software, me encanta descubrir un problema y poder solucionarlo a través de código.
-Actualmente hago BackEnd con Java - Spring Boot y un poco de Go, pero también tengo experiencia en FrontEnd con React. 
 
 ### Skills: 
 <p aling='center'>

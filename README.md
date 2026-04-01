@@ -1,28 +1,9 @@
-### Hola 👋, mi nombre es Luciano
+### Hola 👋, mi nombre es Gantalf
 #### Software Engineer
 ![Software Engineer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 Desarrolador de Software, me encanta descubrir un problema y poder solucionarlo a través de código.
-
-### Skills: 
-<p aling='center'>
-  <img src='./img/skills/react.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/html5.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/jasmine.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/javascript.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/mocha.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/nodejs.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/postgresql.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/python.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/react.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/redux.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/sequelize.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/sqlite.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/webpack.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/express.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/css.png' width='30' height='30' aling='center'>
-  <img src='./img/skills/chai.png' width='30' height='30' aling='center'>
-</p>
+Apacionado por AI, me gusta contruir cosas y pasar el tiempo charlando con algún llm. 
 
 ---
 

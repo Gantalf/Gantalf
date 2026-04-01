@@ -2,11 +2,9 @@
 #### Software Engineer
 ![Software Engineer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-Desarrolador de Software, me encanta descubrir un problema y poder solucionarlo a través de código.
-Apacionado por AI, me gusta contruir cosas y pasar el tiempo charlando con algún llm. 
+Desarrollador de software que disfruta más el problema que la solución. Construyo productos propios, integro IA donde tiene sentido y paso más tiempo del que debería charlando con LLMs. Si hay algo para automatizar, optimizar o construir desde cero, ahí estoy.
 
 ---
-
 
 <p aling='center'>
   <a href='https://www.linkedin.com/in/luciano-nicolas-pereira-dev'>

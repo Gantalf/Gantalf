@@ -6,10 +6,14 @@ Desarrollador de software que disfruta más el problema que la solución. Constr
 
 ---
 
-<p aling='center'>
-  <a href='https://www.linkedin.com/in/luciano-nicolas-pereira-dev'>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' aling='center'>
-  </a>
+<p align='center'>
+    <a href='https://www.linkedin.com/in/luciano-nicolas-pereira-dev'>
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+    </a>
+    &nbsp;&nbsp;
+    <a href='https://x.com/Gantalf99'>
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='x/twitter' height='40'>
+    </a>
 </p>
  
 
